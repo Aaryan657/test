@@ -1,0 +1,42 @@
+:root {
+background-color: antiquewhite;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: oblique;
+font-weight: 300;
+}
+[data-theme='dark'] {
+background-color: rgb(41, 40, 40);
+.highlighted-line {
+color: white;
+background-color: rgb(41, 40, 40);
+}
+.highlighted-line-gold{
+  color: white;
+}
+}
+.highlighted-line {
+    background-color: aliceblue;
+    color: blue;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+.highlighted-line-gold{
+  color: gold;
+}
+.spacer {
+    margin-top: 25px;  /* Adjust spacing as needed */
+}
+.justified-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .left-text {
+    text-align: left;
+  }
+  
+  .right-text {
+    text-align: right;
+  }
+  
