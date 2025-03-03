@@ -1,6 +1,6 @@
 ---
 name: Algolia Event
-id: algolia
+slug: algolia
 ---
 # Hello Everyone
 
