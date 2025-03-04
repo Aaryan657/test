@@ -19,10 +19,10 @@ Nostrum, temporibus quas ducimus mollitia inventore deserunt, consectetur non, u
 Possimus, sint ullam.  
 The introduction about our employees can be seen as [Aaryan Rao](https://www.linkedin.com/in/aaryan-rao-a2b63a2a1/)
 <div class="justified-container">
-  <span class="left-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour gide for this website</span>
-  <span class="right-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour gide for this website</span>
+  <span class="left-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour guide for this website</span>
+  <span class="right-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour guide for this website</span>
 </div><br/>
-<span class="center-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour gide for this website</span>
+<span class="center-text">Hey guys. This is Aaryan here. I welcome you all to explore our website. I'll be your tour guide for this website</span>
 <br />
 <div style={{ textAlign: "center" }}>
 <br />
