@@ -38,7 +38,3 @@ For further references kindly refer the following link
 Hello
 
 how are you??
-
-my bestfriend's information can be seen by checking the link [Larrel Jessica Coutinho](linkedin.com/in/larrel-jessica-coutinho-0637a522b/)
-
-[Aaryan Rao](https://www.linkedin.com/in/aaryan-rao-a2b63a2a1/)
