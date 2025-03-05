@@ -8,9 +8,9 @@ sidebar_position: 1
 <br />
 <br />
 This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.  
-
+<div class="justified-container">
 <span className="highlighted-line">This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.</span>
-
+</div>
 <div className="spacer"></div>
 Lorem ipsum, dolor sit amet consectetur adipisicing elit.   
 Odio natus molestiae expedita.  
