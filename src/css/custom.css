@@ -12,7 +12,7 @@ font-family: Arial, Helvetica, sans-serif;
 /* Main Content Background */
 .theme-doc-markdown {
   background-color: #ffffff; /* Light Gray */
-  color: #333;
+  color: #000000;
   padding: 20px;
 }
 

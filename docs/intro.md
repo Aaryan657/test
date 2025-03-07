@@ -37,7 +37,7 @@ Hello
 
 how are you??
 
-#  End Page
+##  End Page
 This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
 
 This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
@@ -69,3 +69,6 @@ export default function MyReactPage() {
 ```
 
 ## End page
+
+
+![Google logo](https://www.pngplay.com/wp-content/uploads/13/Google-Logo-PNG-Images-HD.png)
