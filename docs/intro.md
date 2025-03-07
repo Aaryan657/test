@@ -61,9 +61,9 @@ import Layout from '@theme/Layout';
 
 export default function MyReactPage() {
   return (
-    <div style={{ width: '250px', padding: '10px' }}>
-          <DocSidebar sidebar={sidebar} path="/docs/intro" />
-        </div>
+    <div style={{ width: '250px', padding: '10px',color:black }}>
+          <DocSidebar sidebar={sidebar} path="/docs/intro" color:black/>
+    </div>
   );
 }
 ```

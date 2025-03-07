@@ -1,6 +1,8 @@
 :root {
-background-color: rgb(255, 255, 255);
+background-color: rgb(255, 255, 255); 
 font-family: Arial, Helvetica, sans-serif;
+--ifm-menu-background-color: #222;  /* Dark background */
+
 }
 [data-theme='dark'] {
 /* Sidebar Background */
@@ -12,7 +14,7 @@ font-family: Arial, Helvetica, sans-serif;
 /* Main Content Background */
 .theme-doc-markdown {
   background-color: #ffffff; /* Light Gray */
-  color: #000000;
+  color: #333;
   padding: 20px;
 }
 

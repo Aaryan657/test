@@ -15,7 +15,7 @@ export default function CustomPage() {
         </div>
 
         {/* Main Content */}
-        <div style={{ flex: 1, padding: '20px' }}>
+        <div style={{ flex: 1, padding: '20px',color: 'black' }}>
           <h1>Custom Documentation Page</h1>
           <p>This page includes the documentation sidebar.</p>
         </div>
