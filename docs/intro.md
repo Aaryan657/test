@@ -7,10 +7,7 @@ sidebar_position: 1
 <span className="highlighted-line-gold">This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.</span>
 <br />
 <br />
-This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.  
-<div class="justified-container">
-<span className="highlighted-line">This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.</span>
-</div>
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
 <div className="spacer"></div>
 Lorem ipsum, dolor sit amet consectetur adipisicing elit.   
 Odio natus molestiae expedita.  
@@ -39,3 +36,36 @@ For further references kindly refer the following link
 Hello
 
 how are you??
+
+#  End Page
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+
+## Middle page
+
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.
+
+
+
+```jsx title="src/pages/my-react-page.js"
+import React from 'react';
+import Layout from '@theme/Layout';
+
+export default function MyReactPage() {
+  return (
+    <div style={{ width: '250px', padding: '10px' }}>
+          <DocSidebar sidebar={sidebar} path="/docs/intro" />
+        </div>
+  );
+}
+```
+
+## End page

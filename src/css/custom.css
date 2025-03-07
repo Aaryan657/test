@@ -1,27 +1,34 @@
 :root {
-background-color: antiquewhite;
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-style: oblique;
-font-weight: 300;
+background-color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
 }
 [data-theme='dark'] {
-background-color: rgb(41, 40, 40);
-.highlighted-line {
-color: white;
-background-color: rgb(41, 40, 40);
-}
-.highlighted-line-gold{
+/* Sidebar Background */
+.theme-doc-sidebar-container {
+  background-color: #2c3e50; /* Dark Blue */
   color: white;
 }
+
+/* Main Content Background */
+.theme-doc-markdown {
+  background-color: #ffffff; /* Light Gray */
+  color: #333;
+  padding: 20px;
 }
+
+/* background-color: #060b10; */
+font-family: Arial, Helvetica, sans-serif;
 .highlighted-line {
-    background-color: aliceblue;
-    color: blue;
-    font-weight: bold;
-    font-size: 1.2em;
+color: white;
 }
 .highlighted-line-gold{
-  color: gold;
+  color: black;
+}
+
+}
+
+.highlighted-line-gold{
+  color: black;
 }
 .spacer {
     margin-top: 25px;  /* Adjust spacing as needed */

@@ -66,12 +66,13 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'logo.svg',
     navbar: {
       title: 'My Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'oriv.png',
+        // src: 'logo.svg',
+        src: 'https://www.pngplay.com/wp-content/uploads/13/Google-Logo-PNG-Images-HD.png',
       },
       items: [
         {
