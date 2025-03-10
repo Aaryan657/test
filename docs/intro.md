@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-#  Introduction Page
+#  Introduction Page1
 
 <span className="highlighted-line-gold">This is the introductory page of our software. In this page you will learn about the process of initialization of our website. Here you will learn everything that is necessary for smooth execution of the project.</span>
 <br />
